@@ -1,0 +1,15 @@
+# Xcode
+*.xcuserdata
+*.xcworkspace
+DerivedData/
+build/
+.idea/
+Pods/
+
+# SwiftPM
+.swiftpm/
+Package.resolved
+
+# Others
+.DS_Store
+
