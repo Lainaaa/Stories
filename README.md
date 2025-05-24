@@ -1,7 +1,7 @@
 # ⚠️ In Progress / Improvements
 
-- **Switching between users** and **pull-to-refresh** are **not yet implemented**
-- Potential areas for further enhancement:
+- **Switching between users** and **pull-to-refresh** currently **need further refinement**
+- Potential areas for future enhancement:
   - Local **caching** of stories and user data
   - Integration of a **database** (e.g., Core Data or Realm) for persistence
   - Adding **asynchronous loading** for remote data
