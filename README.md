@@ -1,3 +1,15 @@
+# ⚠️ In Progress / Improvements
+
+- **Switching between users** and **pull-to-refresh** are **not yet implemented**
+- Potential areas for further enhancement:
+  - Local **caching** of stories and user data
+  - Integration of a **database** (e.g., Core Data or Realm) for persistence
+  - Adding **asynchronous loading** for remote data
+  - Offline support, background updates, or prefetching
+  - Improved dependency management and testing strategy
+
+---
+
 # 📹 Demo
 
 - [Watch video usage demo](https://www.loom.com/share/05214ee3bf06400f8b9acca078b3334b)
